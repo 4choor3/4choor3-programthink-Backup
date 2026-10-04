@@ -185,7 +185,7 @@ Author：English Title@Year (edition).ext
 
 ```bash
 # 浅克隆：只取最新快照
-git clone --depth 1 https://github.com/4choor3/4choor3-programthink-Backup.git
+git clone --depth 1 https://github.com/4choor3/programthink-Backup.git
 ```
 
 **想用更轻的方式重建整个书库：** 见 `__所有电子书目录的密钥__.txt`，用 Resilio Sync 按密钥同步，无需经过 Git。
